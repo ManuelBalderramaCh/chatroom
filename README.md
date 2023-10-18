@@ -15,6 +15,13 @@ Para poder implementar SQS, debemos instalar la dependencia `aws-sdk` con el sig
 npm install aws-sdk
 ```
 ## Muestra del funcionamiento del programa 
+![Consola
+](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/Colas%20en%20aws.jpeg)
 
+## Mensajes enviados y recibidos
+![Enviados
+](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/Mensajes%20enviados.jpeg)
 
+![Recibidos
+](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/mensajes%20recibidos.jpeg)
 
