@@ -19,6 +19,9 @@ npm install aws-sdk
 ](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/Colas%20en%20aws.jpeg)
 
 ## Mensajes enviados y recibidos
-~[Enviados
-]
+![Enviados
+](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/Mensajes%20enviados.jpeg)
+
+![Recibidos
+](https://github.com/ManuelBalderramaCh/chatroom/blob/main/imgs/mensajes%20recibidos.jpeg)
 
